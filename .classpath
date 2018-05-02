@@ -3,6 +3,8 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="jdbc"/>
 	<classpathentry kind="src" path="org.json"/>
+	<classpathentry kind="src" path="JavaBean_Test"/>
+	<classpathentry kind="src" path="jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="jdbc/ojdbc6.jar"/>
 	<classpathentry kind="lib" path="org.json/json.jar"/>

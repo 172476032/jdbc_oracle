@@ -12,6 +12,11 @@ public void setId(Integer id) {
 public String getName() {
 	return name;
 }
+public getclass_test(Integer id, String name) {
+	super();
+	this.id = id;
+	this.name = name;
+}
 public void setName(String name) {
 	this.name = name;
 }
