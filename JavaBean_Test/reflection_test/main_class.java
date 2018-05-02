@@ -69,5 +69,11 @@ public class main_class {
 		 System.out.println(type.getName()+" "+name+";");
 		}
 	}
+	public void printConstructor(){
+		
+		
+		
+	}
+	
 	
 }
